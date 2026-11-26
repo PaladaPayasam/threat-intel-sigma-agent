@@ -1,0 +1,16 @@
+fastapi>=0.115.0
+uvicorn[standard]
+pydantic>=2.9.0
+python-dotenv
+langgraph>=0.2.50
+langchain-core
+langchain-google-genai
+pysigma>=0.11.0
+pysigma-backend-splunk
+pysigma-backend-microsoft365defender
+pysigma-pipeline-sysmon
+pyyaml
+trafilatura
+qdrant-client
+fastembed
+pytest
